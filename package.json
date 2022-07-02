@@ -9,12 +9,30 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@types/react-icons": "^3.0.0",
     "next": "12.2.0",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-icons": "^4.4.0",
+    "sass": "^1.53.0",
+    "typescript": "^4.7.4"
   },
   "devDependencies": {
+    "@types/node": "^18.0.0",
+    "@types/react": "^18.0.14",
     "eslint": "8.18.0",
-    "eslint-config-next": "12.2.0"
+    "eslint-config-next": "12.2.0",
+    "@babel/eslint-parser": "^7.16.3",
+    "@typescript-eslint/eslint-plugin": "^5.4.0",
+    "@typescript-eslint/parser": "^5.4.0",
+    "eslint-config-airbnb": "^19.0.1",
+    "eslint-config-alloy": "^4.4.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-config-react-app": "^6.0.0",
+    "eslint-import-resolver-typescript": "^2.5.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-react": "^7.27.1",
+    "prettier": "^2.4.1",
+    "typescript": "^4.6.4"
   }
 }
